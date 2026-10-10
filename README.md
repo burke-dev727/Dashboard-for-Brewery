@@ -1,7 +1,5 @@
 # Web Development Project 6 - *Dashboard for brewery*
 
-Submitted by: **Xinrui Hou**
-
 This web app: **This application fetches data from the Single Brewery API and projects 20 breweries in different locations. User can filter brewery by type on the nav-bar. The chart is generated to show the amount of breweries.**
 
 Time spent: **5** hours spent in total
